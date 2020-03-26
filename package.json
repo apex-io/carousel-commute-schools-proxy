@@ -1,0 +1,27 @@
+{
+  "name": "carousel-commute-schools-proxy",
+  "version": "1.0.0",
+  "description": "This is a test push This is test push to branch and merge request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apex-io/carousel-commute-schools-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apex-io/carousel-commute-schools-proxy/issues"
+  },
+  "homepage": "https://github.com/apex-io/carousel-commute-schools-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^1.0.3"
+  }
+}
